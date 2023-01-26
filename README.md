@@ -25,6 +25,10 @@
 <h2><i>GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nasirimam&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=radical" alt="m-sehrawat" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasirimam&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=radical" alt="m-sehrawat" height="139" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nasirimam&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=20&locale=en&theme=radical" alt="Nasirimam" height="140" />
+   
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasirimam&layout=compact&hide=Shell&border_radius=20&theme=radical" alt="Nasirimam" height="140" />
+</p>
+<br>
+<img width="95%" height="200" style="margin: auto;" src="https://github-readme-streak-stats.herokuapp.com?user=Nasirimam&theme=dark" alt="">
 </p>
