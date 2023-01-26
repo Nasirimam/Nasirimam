@@ -32,3 +32,8 @@
 <br>
 <img width="95%" height="200" style="margin: auto;" src="https://github-readme-streak-stats.herokuapp.com?user=Nasirimam&theme=dark" alt="">
 </p>
+ <br />
+ <br />
+ 
+ 
+![Nasirimam github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nasirimam&theme=dracula)
